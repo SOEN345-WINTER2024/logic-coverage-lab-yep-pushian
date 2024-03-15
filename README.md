@@ -1,3 +1,6 @@
+Yeprem Antranik 40204291
+
+
 Step 1: Logic Expression - (a || (b && c)
 
 Step 2: Get Predicate Coverage:
